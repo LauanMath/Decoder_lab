@@ -83,11 +83,6 @@ Depois, o loop:
 - encerra imediatamente quando o token gerado for `<EOS>`
 
 
-## Observação
-Este projeto é uma **simulação didática**, como solicitado no laboratório.  
-Ele não treina um Transformer real, mas implementa corretamente os blocos matemáticos cobrados no enunciado.
-
-
 ## Exemplo de execução
 
 ```bash
