@@ -68,7 +68,7 @@ def prove_causal_mask():
 
 
 # =========================================================
-# TAREFA 2 - CROSS-ATTENTION
+# TAREFA 2 - CROSS-ATTENTION (Encoder-Decoder Bridge)
 # =========================================================
 def cross_attention(encoder_out, decoder_state, seed=42):
     """
