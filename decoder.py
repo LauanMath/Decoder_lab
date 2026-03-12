@@ -124,7 +124,7 @@ def test_cross_attention():
 
 
 # =========================================================
-# TAREFA 3 - LOOP DE INFERÊNCIA AUTO-REGRESSIVO
+# TAREFA 3 - AUTOREGRESSIVE DECODING LOOP
 # =========================================================
 VOCAB_SIZE = 10_000
 EOS_TOKEN = "<EOS>"
