@@ -95,3 +95,6 @@ Saída esperada:
 - impressão das probabilidades com posições futuras zeradas
 - shapes do cross-attention
 - loop gerando tokens até `<EOS>`
+  
+- Versão
+  V1.0
